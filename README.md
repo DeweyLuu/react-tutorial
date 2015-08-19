@@ -1,3 +1,5 @@
+#This was pulled directly from https://facebook.github.io/react/docs/tutorial.html
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 # React Tutorial
